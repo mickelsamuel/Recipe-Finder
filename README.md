@@ -2,8 +2,6 @@
 
 The Recipe Finder is a web application that allows users to discover and search for recipes based on their preferences. Users can search for recipes by name or ingredients and filter the results by criteria such as calories, protein, carbohydrates, and fats. This project is built using Python, Django for the backend, and React for the frontend.
 
-![Recipe Finder Screenshot](screenshot.png)
-
 ## Features
 
 - Search for recipes by name or ingredients.
