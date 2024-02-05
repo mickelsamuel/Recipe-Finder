@@ -15,7 +15,7 @@ The Recipe Finder is a web application that allows users to discover and search 
 - **Backend**: Python with Django
 - **Frontend**: React
 - **Database**: PocketBase
-- **API Integration**: TheMealDB, Spoonacular, Edamam for recipe data retrieval
+- **API Integration**: TheMealDB
 
 ## Getting Started
 
