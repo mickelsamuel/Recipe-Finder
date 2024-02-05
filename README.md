@@ -23,8 +23,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- [Python](https://www.python.org/downloads/) (Version X.X.X)
-- [Node.js](https://nodejs.org/en/download/) (Version X.X.X)
-- [Django](https://docs.djangoproject.com/en/3.2/topics/install/) (Version X.X.X)
-- [React](https://reactjs.org/docs/getting-started.html) (Version X.X.X)
+- [Python](https://www.python.org/downloads/)
+- [Node.js](https://nodejs.org/en/download/)
+- [Django](https://docs.djangoproject.com/en/3.2/topics/install/)
+- [React](https://reactjs.org/docs/getting-started.html)
 - [Git](https://git-scm.com/downloads)
